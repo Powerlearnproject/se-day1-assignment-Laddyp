@@ -5,8 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-Software Engineering is the discipline of designing, developing, testing, and maintaining software applications using engineering principles and practices. 
-Software engineering plays a crucial role in the technology industry by enabling the creation of software applications and systems that power various aspects of modern life, including communication, commerce, entertainment, and healthcare.
+Software Engineering is the process of designing, developing, and maintaining software analysis of networking protocol and software applications using engineering principles and practices. Software engineering plays a crucial role in the technology industry by enabling the creation of software applications and systems that power various aspects of modern life, including communication, commerce, entertainment, and healthcare.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 Development of programming languages (e.g., Fortran, C) - Fortran was revolutionary because it allowed programmers to write code that was much closer to mathematical notation than assembly language, making it easier to express complex algorithms. 
