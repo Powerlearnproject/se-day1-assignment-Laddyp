@@ -5,6 +5,10 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+The study of hardware components
+b) The process of designing, developing, and maintaining software
+c) The analysis of networking protocols
+d) The management of data storage system
 Software Engineering is the process of designing, developing, and maintaining software analysis of networking protocol and software applications using engineering principles and practices. Software engineering plays a crucial role in the technology industry by enabling the creation of software applications and systems that power various aspects of modern life, including communication, commerce, entertainment, and healthcare.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
