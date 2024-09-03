@@ -44,7 +44,7 @@ Explain the different types of testing (unit, integration, system, and acceptanc
  System Testing - Testing the entire software system as a whole.
 Acceptance Testing -Testing the software against user requirements to ensure it meets user 
 
-#Part 2: Introduction to AI and Prompt Engineering
+#Part 2: Introduction to AI and Prompt Engineering.
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 Prompt engineering is all about crafting questions or statements to get the best possible responses from AI models.Prompt engineering is a crucial skill for maximizing the effectiveness and utility of AI models,by crafting thoughtful and presise prompts,usre can significantly enhance the quality of AI driven interactions. Impotance is creativity: Creative prompt can push what the AI can generate ,lead to innovative ideas and solutions.Efficiency: It save time by reducing the need for follow up questions or correctiona. 
